@@ -45,6 +45,7 @@ A user can have different roles between teams. Each role is defined by a set of 
 | Change the PHP version                |              | ✅             | ✅         | ✅         |
 | Manage monitoring                     |              | ✅             | ✅         | ✅         |
 | Manage bots                           |              | ✅             | ✅         | ✅         |
+| Manage DNS                            |              | ✅             | ✅         | ✅         |
 | Add or remove team members            |              |               | ✅         | ✅         |
 | Change roles within the team          |              |               | ✅         | ✅         |
 | Rename the team                       |              |               | ✅         | ✅         |
